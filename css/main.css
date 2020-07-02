@@ -563,8 +563,8 @@ section .shoes {
     padding: 8px 0px;
   }
   .header .img__menu {
-    width: 80px;
-    height: 19px;
+    width: 75px;
+    height: 18px;
   }
   .header .header__body .header__burger {
     display: block;
@@ -653,8 +653,8 @@ section .shoes {
 
   .header.sticky .img__menu {
     background-image: url(../img/logo_adidas_white-02.svg);
-    width: 80px;
-    height: 19px;
+    width: 75px;
+    height: 18px;
     left: 0;
     top: 0;
   }
