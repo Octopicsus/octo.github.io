@@ -653,8 +653,8 @@ section .shoes {
 
   .header.sticky .img__menu {
     background-image: url(../img/logo_adidas_white-02.svg);
-    width: 86px;
-    height: 25px;
+    width: 80px;
+    height: 19px;
     left: 0;
     top: 0;
   }
